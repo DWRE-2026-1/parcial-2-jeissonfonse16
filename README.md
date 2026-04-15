@@ -2,6 +2,7 @@
 # Examen Parcial: Calculadora de Teclado Numérico con React.js
 ## Jeisson Fabian Fonseca Soler
 Proyecto desplegado en Vercel: https://parcial-2-jeissonfonse16.vercel.app/
+Los PROMPTS utilizados se encuentran en el archivo PROMPTS.md
 
 ## Descripción del Problema
 El objetivo de este examen es evaluar tus habilidades en el desarrollo de aplicaciones web utilizando **React.js**. Deberás construir una interfaz funcional que presente un **teclado numérico** en pantalla, permitiendo al usuario realizar operaciones aritméticas básicas entre dos números.
