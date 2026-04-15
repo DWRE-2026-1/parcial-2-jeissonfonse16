@@ -64,8 +64,8 @@ const Calculator = () => {
     switch (op) {
       case '+': return numA + numB;
       case '-': return numA - numB;
-      case '*': return numA * numB;
-      case '/': 
+      case '×': return numA * numB;
+      case '÷': 
         if (numB === 0) {
             throw new Error('División por cero');
         }

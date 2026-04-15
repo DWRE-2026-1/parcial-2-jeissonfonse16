@@ -4,8 +4,8 @@ const Keypad = ({ onNumber, onOperator, onClear, onEqual, onDecimal }) => {
   return (
     <div className="keypad">
       <Button label="C" onClick={onClear} type="danger" />
-      <Button label="/" onClick={() => onOperator('/')} type="operator" />
-      <Button label="*" onClick={() => onOperator('*')} type="operator" />
+      <Button label="÷" onClick={() => onOperator('÷')} type="operator" />
+      <Button label="×" onClick={() => onOperator('×')} type="operator" />
       <Button label="-" onClick={() => onOperator('-')} type="operator" />
       
       <Button label="7" onClick={() => onNumber('7')} />

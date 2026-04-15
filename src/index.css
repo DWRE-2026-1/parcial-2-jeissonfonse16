@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
 :root {
-  --bg-gradient-1: #0f172a;
-  --bg-gradient-2: #312e81;
-  --bg-gradient-3: #831843;
+  --bg-gradient-1: #0ea5e9;
+  --bg-gradient-2: #1e3a8a;
+  --bg-gradient-3: #172554;
 
   --glass-bg: rgba(255, 255, 255, 0.05);
   --glass-border: rgba(255, 255, 255, 0.1);
