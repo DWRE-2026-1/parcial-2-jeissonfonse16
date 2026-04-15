@@ -42,21 +42,3 @@ Al final de este archivo o en un archivo adjunto llamado `PROMPTS.md`, deberás 
 **¡Mucho éxito en tu desarrollo!**
 
 ---
-
-## Instrucciones para Ejecución Local y Despliegue
-
-### 1. Ejecución Local
-Para visualizar este proyecto localmente:
-1. Asegúrate de tener instalado [Node.js](https://nodejs.org/).
-2. Clona el repositorio y navega a la carpeta.
-3. Ejecuta `npm install` para instalar las dependencias.
-4. Ejecuta `npm run dev` para iniciar el servidor de desarrollo.
-5. Abre la URL mostrada en la terminal (por defecto `http://localhost:5173/`).
-
-### 2. Instrucciones para Despliegue
-Este proyecto fue iniciado con Vite y es muy fácil de desplegar en Vercel, Netlify o GitHub Pages.
-* **Vercel o Netlify**: 
-  1. Conecta tu repositorio de GitHub a tu cuenta de Vercel (o Netlify).
-  2. Crea un nuevo proyecto e importa el repositorio de la calculadora.
-  3. Los frameworks detectan automáticamente que es un proyecto de Vite. Los comandos de Build predeterminados (`npm run build`) y la carpeta de salida (`dist`) funcionarán sin configuración adicional.
-  4. Haz clic en "Deploy" y listo.
